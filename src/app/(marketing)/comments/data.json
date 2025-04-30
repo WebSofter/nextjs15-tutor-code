@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "author": "John Doe",
+        "comment": "This is a fantastic post! Really enjoyed reading it.",
+        "date": "2023-10-01"
+    },
+    {
+        "id": 2,
+        "author": "Jane Smith",
+        "comment": "I completely agree with your points. Well written!",
+        "date": "2023-10-02"
+    },
+    {
+        "id": 3,
+        "author": "Alice Johnson",
+        "comment": "Thanks for sharing this information. It was very helpful.",
+        "date": "2023-10-03"
+    },
+    {
+        "id": 4,
+        "author": "Bob Brown",
+        "comment": "I have a different perspective, but I appreciate your insights.",
+        "date": "2023-10-04"
+    },
+    {
+        "id": 5,
+        "author": "Charlie Davis",
+        "comment": "Great content! Looking forward to your next post.",
+        "date": "2023-10-05"
+    },
+    {
+        "id": 6,
+        "author": "Diana Evans",
+        "comment": "This was very informative. Thank you for putting this together.",
+        "date": "2023-10-06"
+    },
+    {
+        "id": 7,
+        "author": "Ethan Harris",
+        "comment": "I learned a lot from this. Keep up the great work!",
+        "date": "2023-10-07"
+    },
+    {
+        "id": 8,
+        "author": "Fiona Green",
+        "comment": "Interesting perspective. I hadn't thought about it that way.",
+        "date": "2023-10-08"
+    },
+    {
+        "id": 9,
+        "author": "George King",
+        "comment": "This is exactly what I was looking for. Thanks for sharing!",
+        "date": "2023-10-09"
+    },
+    {
+        "id": 10,
+        "author": "Hannah Lee",
+        "comment": "Amazing post! I’ll definitely share this with my friends.",
+        "date": "2023-10-10"
+    }
+]
